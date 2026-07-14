@@ -155,9 +155,10 @@ NoticeDB
 
 <td align="center">
 <b>Suggestion Box</b><br>
-<img src="Screenshots/Suggestion.png" width="450"/>
+<img src="Screenshots/Suggetion.png" width="450"/>
 </td>
 </tr>
+
 
 <tr>
 <td colspan="2" align="center">
