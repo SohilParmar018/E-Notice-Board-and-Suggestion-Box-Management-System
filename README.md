@@ -1,3 +1,3 @@
-# E-N-B
+E-Notice Board and Suggestion Box Management System
 
-C# AND ASP.NET
+C# AND ASP.NET (WEB FORMS)
