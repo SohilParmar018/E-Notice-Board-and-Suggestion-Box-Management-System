@@ -155,7 +155,7 @@ NoticeDB
 
 <td align="center">
 <b>Suggestion Box</b><br>
-<img src="Screenshots/SuggestionBox.png" width="450"/>
+<img src="Screenshots/Suggestion.png" width="450"/>
 </td>
 </tr>
 
@@ -172,10 +172,7 @@ NoticeDB
 - 🔍 Search Notices
 - 📂 Notice Categories
 - 📧 Email Notifications
-- 📄 PDF Export
 - 📱 Mobile Application
-- ☁ Cloud Deployment
-- 🤖 AI-Based Suggestion Analysis
 - 🔔 Push Notifications
 
 ---
